@@ -1,0 +1,18 @@
+
+
+@media screen and (min-width : 768px){
+    .bg {
+        position: absolute;
+        top: -400px;
+        left: -400px;
+        z-index: -1;
+    }
+    
+    
+    .bg1 {
+        position: absolute;
+        bottom: -400px;
+        right: -400px;
+        z-index: -1;
+    }
+}
